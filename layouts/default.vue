@@ -5,6 +5,23 @@
   </div>
 </template>
 
+<script>
+export default {
+  head() {
+    return {
+      titleTemplate: '%s - Real World Events',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'You can create a new event in your neighborhood',
+        },
+      ],
+    }
+  },
+}
+</script>
+
 <style>
 html {
   -webkit-text-size-adjust: 100%;
