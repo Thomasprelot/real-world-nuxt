@@ -1,4 +1,4 @@
-import EventService from '@/services/EventService.js'
+import EventService from '@/services/eventService.js'
 export const state = () => ({
   events: [],
   event: {},
