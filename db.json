@@ -4,44 +4,44 @@
       "id": 5928101,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Gabriel"
       },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Cat Cabaret",
-      "description": "Yay felines!",
-      "location": "Meow Town",
-      "date": "2019-01-03T21:54:00.000Z",
-      "time": "2:00",
-      "attendees": []
+      "category": "Work",
+      "organizer": "Gabriel",
+      "title": "Pot d'arrivée de Thomas",
+      "description": "Célébration de l'arrivée de Thomas chez Heqtor, à base de grandes bouteilles de Lancelot-Pienne.",
+      "location": "Station H",
+      "date": "2020-11-24T18:00:00.000Z",
+      "time": "1:00",
+      "attendees": [ "Gabriel", "Alex", "Colin", "Victor","Thomas"]
     },
     {
       "id": 8419988,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Gabriel"
       },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Kitty Cluster",
-      "description": "Yay cats!",
-      "location": "Catlandia",
-      "date": "2019-01-31T22:09:00.000Z",
-      "time": "7:00",
-      "attendees": []
+      "category": "Work",
+      "organizer": "Gabriel",
+      "title": "Promotion de Thomas",
+      "description": "Thomas sera promu Web Developer en chef chez Heqtor à date.",
+      "location": "Station F*****",
+      "date": "2021-01-01T19:00:00.000Z",
+      "time": "1:00",
+      "attendees": ["Gabriel","Thomas"]
     },
     {
       "id": 4582797,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Gabriel"
       },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Puppy Parade",
-      "description": "Yay pups!",
-      "location": "Puptown ",
-      "date": "2019-02-02T23:27:00.000Z",
+      "category": "Money",
+      "organizer": "Gabriel",
+      "title": "Prime de noël",
+      "description": "Versement de la prime de Noël pour tous les travailleurs d'Heqtor. Ils se verront offrir Un euro symbolique pour les récompenser de leur travail de l'année.",
+      "location": "Station H ",
+      "date": "2020-12-25T15:27:00.000Z",
       "time": "1:00",
       "attendees": []
     }
