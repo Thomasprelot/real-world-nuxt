@@ -13,7 +13,28 @@
       "location": "Station H",
       "date": "2020-11-24T18:00:00.000Z",
       "time": "1:00",
-      "attendees": [ "Gabriel", "Alex", "Colin", "Victor","Thomas"]
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Gabriel"
+        },
+        {
+          "id": "bcd234",
+          "name": "Colin"
+        },
+        {
+          "id": "cde345",
+          "name": "Alex"
+        },
+        {
+          "id": "def456",
+          "name": "Victor"
+        },
+        {
+          "id": "efg567",
+          "name": "Thomas"
+        }
+      ]
     },
     {
       "id": 8419988,
@@ -28,7 +49,16 @@
       "location": "Station F*****",
       "date": "2021-01-01T19:00:00.000Z",
       "time": "1:00",
-      "attendees": ["Gabriel","Thomas"]
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Gabriel"
+        },
+        {
+          "id": "efg567",
+          "name": "Thomas"
+        }
+      ]
     },
     {
       "id": 4582797,
@@ -43,7 +73,28 @@
       "location": "Station H ",
       "date": "2020-12-25T15:27:00.000Z",
       "time": "1:00",
-      "attendees": []
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Gabriel"
+        },
+        {
+          "id": "bcd234",
+          "name": "Colin"
+        },
+        {
+          "id": "cde345",
+          "name": "Alex"
+        },
+        {
+          "id": "def456",
+          "name": "Victor"
+        },
+        {
+          "id": "efg567",
+          "name": "Thomas"
+        }
+      ]
     }
   ]
 }
