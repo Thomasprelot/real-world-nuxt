@@ -7,7 +7,10 @@
         "name": "Gabriel"
       },
       "category": "Work",
-      "organizer": "Gabriel",
+      "organizer": {
+        "id": "abc123",
+        "name": "Gabriel"
+      },
       "title": "Pot d'arrivée de Thomas",
       "description": "Célébration de l'arrivée de Thomas chez Heqtor, à base de grandes bouteilles de Lancelot-Pienne.",
       "location": "Station H",
@@ -43,7 +46,10 @@
         "name": "Gabriel"
       },
       "category": "Work",
-      "organizer": "Gabriel",
+      "organizer": {
+        "id": "abc123",
+        "name": "Gabriel"
+      },
       "title": "Promotion de Thomas",
       "description": "Thomas sera promu Web Developer en chef chez Heqtor à date.",
       "location": "Station F*****",
@@ -67,7 +73,10 @@
         "name": "Gabriel"
       },
       "category": "Money",
-      "organizer": "Gabriel",
+      "organizer": {
+        "id": "abc123",
+        "name": "Gabriel"
+      },
       "title": "Prime de noël",
       "description": "Versement de la prime de Noël pour tous les travailleurs d'Heqtor. Ils se verront offrir Un euro symbolique pour les récompenser de leur travail de l'année.",
       "location": "Station H ",
