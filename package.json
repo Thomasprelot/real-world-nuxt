@@ -16,6 +16,8 @@
     "@nuxtjs/eslint-module": "^2.0.0",
     "core-js": "^3.6.5",
     "heroku": "^7.47.2",
+    "http-serve": "^1.0.1",
+    "http-server": "^0.12.3",
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
